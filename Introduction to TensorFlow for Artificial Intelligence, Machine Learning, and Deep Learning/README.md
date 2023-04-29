@@ -1,0 +1,3 @@
+This folder contains lecture notes, optional labs and assignments of
+Introduction to TensorFlow for Artificial Intelligence,
+Machine Learning, and Deep Learning
